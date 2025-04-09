@@ -73,4 +73,3 @@ jupyter notebook SLF_Project_LearnerNotebook.ipynb
 
 Built as part of the **Supervised Learning Foundations** track.  
 Author: Ryan Stambaugh  
-Instructor / Mentor: [Add name if needed]
